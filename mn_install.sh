@@ -28,7 +28,7 @@ declare -r RELEASE_VERSION_SRC="master"     #mainnet
 #declare -r RELEASE_VERSION_SRC="Dev"       #testnet
 declare -r CODE_DIR="SocialSend"
 
-declare -r RELEASE_VERSION="1.2.0"
+declare -r RELEASE_VERSION="1.2.0.3"
 declare -r RELEASE_BUILD=1
 
 EXTERNAL_IP=${AUTODETECT_EXTERNAL_IP}
